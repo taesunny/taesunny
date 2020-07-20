@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working with Cloud
-
-📫 Email : superbsun@gmail.com
-
-😄 Blog(developing) : https://medium.com/@taesun
+<br>🔭 I’m currently working with Cloud
+<br>📫 Email : superbsun@gmail.com
+<br>😄`Blog(developing) : https://medium.com/@taesun
 
 <!--
 **taesunny/taesunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
