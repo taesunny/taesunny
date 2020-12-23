@@ -11,7 +11,7 @@
 
 <p align="center">
 <br>📫 Email : superbsun@gmail.com
-<br>😄 Blog(developing) : https://taesun.medium.com/
-<br>😄 Blog(study) : https://velog.io/@taesunny
+<br>😄 New Tech Blog : https://taesunny.github.io/
+<br>😄 Blog : https://taesun.medium.com/
+<br>😄 Old Blog for study : https://velog.io/@taesunny
 </p>
-
