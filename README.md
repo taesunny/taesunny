@@ -12,5 +12,4 @@
 <p align="center">
 <br>📫 Email : superbsun@gmail.com
 <br>😄 New Tech Blog : https://taesunny.github.io/
-<br>😄 Blog : https://taesun.medium.com/
 </p>
